@@ -28,12 +28,18 @@ I can piece these out but I would prefer to sell the biggest chunks I can to min
 
 ### Misc
 
+- Ryzen 3 3100 4C/8T AM4 w/ Cooler [[AMD]](https://www.amd.com/en/products/cpu/amd-ryzen-3-3100)
+
 #### DDR3
 
 - Corsair Vengeance 4GB DIMM [[Corsair]](https://www.corsair.com/us/en/Categories/Products/Memory/High-Performance-Memory/Vengeance%C2%AE-%E2%80%94-4GB-Single-Module-DDR3-Memory-Kit/p/CMZ4GX3M1A1600C9)
-- 2x Micron 4GB DIMM [[Micron]](https://www.micron.com/products/dram-modules/udimm/part-catalog/mt8jtf51264az-1g6/mt8jtf51264az-1g6e1)
+- 3x Micron 4GB DIMM [[Micron]](https://www.micron.com/products/dram-modules/udimm/part-catalog/mt8jtf51264az-1g6/mt8jtf51264az-1g6e1)
 - 2x Kingston 8GB DIMM [[Kingston]](https://www.kingston.com/datasheets/KHX16C9P1K2_16.pdf)
 - 4x Corsair Vengeance 8GB DIMM [[Corsair]](https://www.corsair.com/us/en/Categories/Products/Memory/High-Performance-Memory/Vengeance%C2%AE-%E2%80%94-8GB-DDR3-Memory-Kit/p/CMZ8GX3M1A1600C10)
+
+#### DDR3 SODIMM
+
+-
 
 #### HDD
 
