@@ -30,6 +30,8 @@ I can piece these out but I would prefer to sell the biggest chunks I can to min
 
 - Ryzen 3 3100 4C/8T AM4 w/ Cooler [[AMD]](https://www.amd.com/en/products/cpu/amd-ryzen-3-3100)
 
+- Kingston 512MB DDR2 DIMM [[memory4less]](https://www.memory4less.com/infineon-512mb-ddr2-pc4200-ktf6761-infa37)
+
 #### DDR3
 
 - Corsair Vengeance 4GB DIMM [[Corsair]](https://www.corsair.com/us/en/Categories/Products/Memory/High-Performance-Memory/Vengeance%C2%AE-%E2%80%94-4GB-Single-Module-DDR3-Memory-Kit/p/CMZ4GX3M1A1600C9)
@@ -48,3 +50,5 @@ I can piece these out but I would prefer to sell the biggest chunks I can to min
 ## Networking Gear
 
 - ICX 6450-48p Switch - 780W POE+ - 4xSFP+ - 48x1Gbe [[Brocade]](https://support.ruckuswireless.com/products/121-brocade-icx-6430-and-6450-campus-switches#sort=relevancy&f:@commonproducts=[ICX-6430-6450])
+
+- Intel i350 4x1GBE NIC [[memory4less]](https://www.memory4less.com/cisco-network-interface-adapter-ucsc-pcie-irj45) (good for pfsense)
