@@ -52,3 +52,7 @@ I can piece these out but I would prefer to sell the biggest chunks I can to min
 - ICX 6450-48p Switch - 780W POE+ - 4xSFP+ - 48x1Gbe [[Brocade]](https://support.ruckuswireless.com/products/121-brocade-icx-6430-and-6450-campus-switches#sort=relevancy&f:@commonproducts=[ICX-6430-6450])
 
 - Intel i350 4x1GBE NIC [[memory4less]](https://www.memory4less.com/cisco-network-interface-adapter-ucsc-pcie-irj45) (good for pfsense)
+
+- PCIE Parallel and Serial Card [[amazon]](https://www.amazon.com/gp/product/B07PXB77W6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- Parallel Cable [[amazon]](https://www.amazon.com/gp/product/B08F72QHV1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
